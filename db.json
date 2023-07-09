@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "今天天氣不錯，還挺風和日麗的",
+      "author": "張三",
+      "id": 2
+    },
+    {
+      "title": "今天天氣不錯，還挺風和日麗的",
+      "author": "張三",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
