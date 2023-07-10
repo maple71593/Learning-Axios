@@ -21,6 +21,16 @@
       "id": 1,
       "body": "some comment",
       "postId": 1
+    },
+    {
+      "body": "王銘陽",
+      "postId": 2,
+      "id": 2
+    },
+    {
+      "body": "王銘陽",
+      "postId": 2,
+      "id": 3
     }
   ],
   "profile": {
